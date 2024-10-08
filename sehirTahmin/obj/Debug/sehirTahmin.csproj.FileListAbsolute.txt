@@ -1,0 +1,10 @@
+C:\Users\ozkan\source\repos\sehirTahmin\sehirTahmin\bin\Debug\sehirTahmin.exe.config
+C:\Users\ozkan\source\repos\sehirTahmin\sehirTahmin\bin\Debug\sehirTahmin.exe
+C:\Users\ozkan\source\repos\sehirTahmin\sehirTahmin\bin\Debug\sehirTahmin.pdb
+C:\Users\ozkan\source\repos\sehirTahmin\sehirTahmin\obj\Debug\sehirTahmin.csproj.AssemblyReference.cache
+C:\Users\ozkan\source\repos\sehirTahmin\sehirTahmin\obj\Debug\sehirTahmin.Form1.resources
+C:\Users\ozkan\source\repos\sehirTahmin\sehirTahmin\obj\Debug\sehirTahmin.Properties.Resources.resources
+C:\Users\ozkan\source\repos\sehirTahmin\sehirTahmin\obj\Debug\sehirTahmin.csproj.GenerateResource.cache
+C:\Users\ozkan\source\repos\sehirTahmin\sehirTahmin\obj\Debug\sehirTahmin.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\source\repos\sehirTahmin\sehirTahmin\obj\Debug\sehirTahmin.exe
+C:\Users\ozkan\source\repos\sehirTahmin\sehirTahmin\obj\Debug\sehirTahmin.pdb
